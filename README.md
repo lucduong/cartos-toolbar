@@ -1,6 +1,8 @@
 # cartos-toolbar
 Toolbar for CarTOS
 
+![CarTOS Toolbar](toolbar.png "CarTOS Toolbar")
+
 ## Using
 ### 1. Include Javascript and Stylesheet
 ```
